@@ -1,7 +1,19 @@
 # Urna Eletrônica
-https://nightalone.github.io/urnaeletronica/
-#
-Número vereador: 12345 <br>
-Número vereador: 54321
-Número prefeito: 12
-Número prefeito: 21
+
+<br>**Link para acessar** 👇<br>
+<br> https://nightalone.github.io/urnaeletronica/
+
+# 
+
+<br>
+
+**Tabela dos candidatos**
+
+Candidato |   Cargo   | Número
+--------- | --------- | ------
+Gohan     |  Vereador | 12345
+Picolo    |  Vereador | 54321
+Goku      |  Prefeito | 12
+Vegeta    |  Prefeito | 21|  
+
+
